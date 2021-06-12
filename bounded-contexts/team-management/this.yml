@@ -1,0 +1,12 @@
+---
+name: "Team Management"
+version: "1.0"
+status: "APPROVED"
+splitBuilds: true
+kafka: false
+springBatch: false
+databaseConnectionSpec:
+  dbName: "mycompany_team"
+  user: "root"
+  pass: "root"
+  useDefault: true

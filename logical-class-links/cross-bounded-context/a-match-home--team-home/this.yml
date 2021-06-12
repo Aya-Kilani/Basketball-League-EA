@@ -1,0 +1,9 @@
+---
+linkType: "Association"
+direction: "Source -> Destination"
+sourceCard: "*"
+destCard: "1"
+sourceRole: "home"
+destRole: "home"
+source: "C-match"
+target: "C-team"

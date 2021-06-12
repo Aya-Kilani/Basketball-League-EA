@@ -1,0 +1,9 @@
+---
+name: "Code"
+type: "String (20)"
+description: "The unique identifier of Team Type"
+stereotype: "Common"
+isCollection: false
+lowerBound: "1"
+upperBound: "1"
+pos: 2000

@@ -1,0 +1,4 @@
+---
+description: "generated"
+type: "JPA"
+constraint: "@Size(min=1, max=20)"

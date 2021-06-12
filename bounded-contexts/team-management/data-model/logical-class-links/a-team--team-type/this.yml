@@ -1,0 +1,7 @@
+---
+linkType: "Association"
+direction: "Source -> Destination"
+sourceCard: "*"
+destCard: "1"
+source: "C-team"
+target: "C-team-type"

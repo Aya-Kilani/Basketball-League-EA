@@ -1,0 +1,8 @@
+---
+name: "Name"
+type: "String (100)"
+stereotype: "Common"
+isCollection: false
+lowerBound: "0"
+upperBound: "1"
+pos: 2000

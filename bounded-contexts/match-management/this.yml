@@ -1,0 +1,12 @@
+---
+name: "Match Management"
+version: "1.0"
+status: "APPROVED"
+splitBuilds: true
+kafka: false
+springBatch: false
+databaseConnectionSpec:
+  dbName: "mycompany_match"
+  user: "root"
+  pass: "root"
+  useDefault: true

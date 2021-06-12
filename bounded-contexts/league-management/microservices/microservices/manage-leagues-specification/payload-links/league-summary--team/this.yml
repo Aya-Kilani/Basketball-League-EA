@@ -1,0 +1,7 @@
+---
+linkType: "Association"
+direction: "Source -> Destination"
+sourceCard: "1"
+destCard: "*"
+source: "P-Manage Leagues Specification-League Summary"
+target: "P-Manage Leagues Specification-Team"

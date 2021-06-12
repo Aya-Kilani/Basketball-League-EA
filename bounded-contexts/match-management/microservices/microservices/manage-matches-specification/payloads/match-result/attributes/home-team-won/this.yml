@@ -1,0 +1,8 @@
+---
+name: "Home Team Won"
+type: "Boolean"
+stereotype: "Common"
+isCollection: false
+lowerBound: "1"
+upperBound: "1"
+pos: 4

@@ -1,0 +1,10 @@
+---
+name: "Submit Match Result"
+author: "dell"
+status: "APPROVED"
+version: "1.0"
+phase: "1.0"
+verb: "POST"
+timeout: 300000
+created: "2021-06-07 00:00:00"
+modified: "2021-06-07 00:00:00"

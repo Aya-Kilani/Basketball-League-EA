@@ -1,0 +1,8 @@
+---
+tenants:
+- num: 1
+  code: "DEFAULT"
+  locale: "en_us"
+- num: 2
+  code: "ANOTHER"
+  locale: "en_us"

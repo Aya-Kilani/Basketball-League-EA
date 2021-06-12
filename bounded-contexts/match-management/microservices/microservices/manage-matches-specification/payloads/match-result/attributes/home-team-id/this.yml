@@ -1,0 +1,8 @@
+---
+name: "Home Team Id"
+type: "Long"
+stereotype: "Common"
+isCollection: false
+lowerBound: "1"
+upperBound: "1"
+pos: 1

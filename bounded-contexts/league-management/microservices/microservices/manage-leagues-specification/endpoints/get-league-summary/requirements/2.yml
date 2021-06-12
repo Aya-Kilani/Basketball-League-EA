@@ -1,0 +1,5 @@
+---
+reqType: "PathVariable"
+requirement: "Long - leagueId - 1"
+priority: "Medium"
+status: "Proposed"

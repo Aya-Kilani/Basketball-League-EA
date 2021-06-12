@@ -1,0 +1,8 @@
+---
+name: "Note"
+type: "String (255)"
+stereotype: "Common"
+isCollection: false
+lowerBound: "0"
+upperBound: "1"
+pos: 2000

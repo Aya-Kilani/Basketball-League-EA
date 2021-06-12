@@ -1,0 +1,4 @@
+---
+source: "MF-D-Manage Matches Specification - Submit Match Result - Is League Over?"
+target: "MF-E-Manage Matches Specification - Submit Match Result - End"
+guardCondition: "League Is Not Over"

@@ -1,0 +1,5 @@
+---
+name: "Verify Teams in League"
+author: "dell"
+type: "ACTIVITY"
+stereotype: "microservice call"

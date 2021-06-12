@@ -1,0 +1,5 @@
+---
+name: "Log Notification Two"
+author: "dell"
+type: "ACTIVITY"
+stereotype: "nanoservice call"

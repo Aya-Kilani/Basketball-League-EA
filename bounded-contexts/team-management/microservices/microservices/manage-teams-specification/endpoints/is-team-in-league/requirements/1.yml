@@ -1,0 +1,5 @@
+---
+reqType: "RequestParam"
+requirement: "Long - leagueId"
+priority: "Medium"
+status: "Proposed"

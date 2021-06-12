@@ -1,0 +1,8 @@
+---
+name: "Date Played"
+type: "Date"
+stereotype: "Common"
+isCollection: false
+lowerBound: "1"
+upperBound: "1"
+pos: 3

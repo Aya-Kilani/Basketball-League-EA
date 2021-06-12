@@ -1,0 +1,8 @@
+---
+name: "Effective From"
+type: "Date"
+stereotype: "Valid"
+isCollection: false
+lowerBound: "1"
+upperBound: "1"
+pos: 2000

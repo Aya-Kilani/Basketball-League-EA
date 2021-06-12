@@ -1,0 +1,5 @@
+---
+reqType: "Delete By"
+requirement: "[League Id]"
+priority: "Medium"
+status: "Proposed"

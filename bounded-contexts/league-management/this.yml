@@ -1,0 +1,12 @@
+---
+name: "League Management"
+version: "1.0"
+status: "APPROVED"
+splitBuilds: true
+kafka: false
+springBatch: false
+databaseConnectionSpec:
+  dbName: "mycompany_league"
+  user: "root"
+  pass: "root"
+  useDefault: true
